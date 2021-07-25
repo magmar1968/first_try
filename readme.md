@@ -3,7 +3,7 @@ Questo progetto non è altro che un primo tentativo di creare un programmino che
 
 Il **main** lancia un semplice generatore di numeri casuali prendendo da un file tutte le caratteristiche.
 
-le **librerie** contengono semplicemente le funzioni per leggere, scrivere su file e generare i numeri
+il **dummy input** conterrà un file modificabile che andrà ad essere letto dal programma per generare i dati
 
 il codice **bash** dovrebbe essere lo strumento che lancia in automatico il codice e genera tutti i file di input.
 
