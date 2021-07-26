@@ -1,0 +1,5 @@
+min      //limite inferiore dei numeri da generare
+max      //limite superiore
+n_num    //numero di numeri da generare 
+b_int    //boolenano che indica se generare interi o meno
+seed     //contiene il seed per generare i dati 
